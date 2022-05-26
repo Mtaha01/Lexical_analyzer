@@ -1,0 +1,14 @@
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.exe.config
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.exe
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\bin\Debug\Lexical.pdb
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.csprojAssemblyReference.cache
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.csproj.CoreCompileInputs.cache
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.exe
+C:\Users\Laptop Market\source\repos\Lexical\Lexical\obj\Debug\Lexical.pdb
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\bin\Debug\Lexical.exe.config
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\bin\Debug\Lexical.exe
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\bin\Debug\Lexical.pdb
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\obj\Debug\Lexical.csproj.AssemblyReference.cache
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\obj\Debug\Lexical.csproj.CoreCompileInputs.cache
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\obj\Debug\Lexical.exe
+D:\The university\4th year cs\First Semester\Compiler\Lexical\Lexical\obj\Debug\Lexical.pdb
